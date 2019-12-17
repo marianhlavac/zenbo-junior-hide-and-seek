@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "c36e04c3b048459caab54ee7a5e1bb633af1bf22ff191da5735b76b2b2046179"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "7b63174": {
+            "editable": true,
+            "path": "./pyzenbo"
+        }
+    },
+    "develop": {}
+}
